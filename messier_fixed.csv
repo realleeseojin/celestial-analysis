@@ -1,0 +1,111 @@
+﻿messier,ngc,common_name,object_type,distance,constellation,magnitude,size
+M1,NGC 1952,Crab Nebula,Super­nova remnant,4.9–8.1,Taurus,8.4,420″ × 290″
+M2,NGC 7089,—,Globular cluster,33,Aquarius,6.5,16′
+M3,NGC 5272,—,Globular cluster,33.9,Canes Venatici,6.2,18′
+M4,NGC 6121,Spider Globular Cluster,Globular cluster,7.2,Scorpius,5.6,26′
+M5,NGC 5904,Rose Cluster,Globular cluster,24.5,Serpens,5.6,23′
+M6,NGC 6405,Butterfly Cluster,Open cluster,1.6,Scorpius,4.2,25′
+M7,NGC 6475,Ptolemy's Cluster,Open cluster,0.65–1.31,Scorpius,3.3,80′
+M8,NGC 6523,Lagoon Nebula,Nebulawith cluster,4.1,Sagittarius,4.6,90′ × 40′
+M9,NGC 6333,—,Globular cluster,25.8,Ophiuchus,7.7,9.3′
+M10,NGC 6254,—,Globular cluster,14.3,Ophiuchus,6.6,20′
+M11,NGC 6705,Wild Duck Cluster,Open cluster,6.2,Scutum,5.8,22.8′
+M12,NGC 6218,—,Globular cluster,15.7,Ophiuchus,6.7,16′
+M13,NGC 6205,Great Hercules Cluster,Globular cluster,22.2,Hercules,5.8,20′
+M14,NGC 6402,—,Globular cluster,30.3,Ophiuchus,7.6,11′
+M15,NGC 7078,Great Pegasus Cluster,Globular cluster,33,Pegasus,6.2,18′
+M16,NGC 6611,Eagle Nebula,H II regionnebula with cluster,7,Serpens,6.4,70′ × 50′
+M17,NGC 6618,"Omega,Swan,Horseshoe,Lobster, orCheckmark Nebula",H II regionnebula with cluster,5–6,Sagittarius,6.0,11′
+M18,NGC 6613,Black Swan Cluster,Open cluster,4.9,Sagittarius,7.5,9.8′
+M19,NGC 6273,—,Globular cluster,28.7,Ophiuchus,6.8,17′
+M20,NGC 6514,Trifid Nebula,H II regionnebula with cluster,5.2,Sagittarius,6.3,28′
+M21,NGC 6531,Webb's Cross Cluster,Open cluster,4.25,Sagittarius,6.5,14′
+M22,NGC 6656,Great Sagittarius Cluster,Globular cluster,9.6–11.6,Sagittarius,5.1,32′
+M23,NGC 6494,—,Open cluster,2.15,Sagittarius,5.5,35′
+M24,IC 4715,Small Sagittarius Star Cloud,Milky Waystar cloud,~10,Sagittarius,2.5,2°x1°
+M25,IC 4725,—,Open cluster,2.0,Sagittarius,4.6,36′
+M26,NGC 6694,—,Open cluster,5.0,Scutum,8.0,14′
+M27,NGC 6853,Dumbbell Nebula,Planetary nebula,1.148–1.52,Vulpecula,7.4,8.0′ × 5.6′
+M28,NGC 6626,—,Globular cluster,17.9,Sagittarius,6.8,11.2′
+M29,NGC 6913,Cooling Tower Cluster,Open cluster,7.2,Cygnus,7.1,7′
+M30,NGC 7099,Jellyfish Cluster,Globular cluster,27.8–31,Capricornus,7.2,12′
+M31,NGC 224,Andromeda Galaxy,Spiral galaxy,"2,430–2,650",Andromeda,3.4,3.17° × 1°
+M32,NGC 221,Andromeda Satellite #1,Dwarf elliptical galaxy,"2,410–2,570",Andromeda,8.1,8.7′ × 6.5′
+M33,NGC 598,Triangulum/Pinwheel Galaxy,Spiral galaxy,"2,380–3,070",Triangulum,5.7,70.8′ × 41.7′
+M34,NGC 1039,Spiral Cluster,Open cluster,1.5,Perseus,5.5,35′
+M35,NGC 2168,Shoe-Buckle Cluster,Open cluster,2.8,Gemini,5.3,28′
+M36,NGC 1960,Pinwheel Cluster,Open cluster,4.1,Auriga,6.3,12′
+M37,NGC 2099,Salt and Pepper Cluster,Open cluster,4.511,Auriga,6.2,24′
+M38,NGC 1912,Starfish Cluster,Open cluster,4.2,Auriga,7.4,21′
+M39,NGC 7092,Pyramid Cluster,Open cluster,0.8244,Cygnus,4.6,29′
+M40,—,Winnecke 4,Optical Double,0.51,Ursa Major,8.4,51.7″
+M41,NGC 2287,Little Beehive Cluster,Open cluster,2.3,Canis Major,4.5,38′
+M42,NGC 1976,Great Orion Nebula,H II regionnebula,1.324–1.364,Orion,4.0,65′ × 60′
+M43,NGC 1982,De Mairan's Nebula,H II regionnebula (part of the Orion Nebula),1.6,Orion,9.0,20′ × 15′
+M44,NGC 2632,Beehive ClusterorPraesepe,Open cluster,0.577,Cancer,3.7,95′
+M45,—,"Pleiades,Seven SistersorSubaru",Open cluster,0.39–0.46,Taurus,1.6,2°
+M46,NGC 2437,—,Open cluster,5.4,Puppis,6.0,22.8′
+M47,NGC 2422,—,Open cluster,1.6,Puppis,4.4,30′
+M48,NGC 2548,—,Open cluster,1.5,Hydra,5.5,30′
+M49,NGC 4472,—,Elliptical galaxy,"53,600–58,200",Virgo,8.4,10.2′ × 8.3′
+M50,NGC 2323,Heart-Shaped Cluster,Open cluster,3.2,Monoceros,5.9,16′
+M51,"NGC 5194,NGC 5195",Whirlpool Galaxy,Spiral galaxy,"19,000–27,000",Canes Venatici,8.4,11.2′ × 6.9′
+M52,NGC 7654,Scorpion Cluster,Open cluster,5.0,Cassiopeia,7.3,13′
+M53,NGC 5024,—,Globular cluster,58,Coma Berenices,7.6,13′
+M54,NGC 6715,—,Globular cluster,87.4,Sagittarius,7.6,12′
+M55,NGC 6809,Specter Cluster,Globular cluster,17.6,Sagittarius,6.3,19′
+M56,NGC 6779,—,Globular cluster,32.9,Lyra,8.3,8.8′
+M57,NGC 6720,Ring Nebula,Planetary nebula,1.6–3.8,Lyra,8.8,230″ × 230″
+M58,NGC 4579,—,Barred Spiral galaxy,"~63,000",Virgo,9.7,5.9′ × 4.7′
+M59,NGC 4621,—,Elliptical galaxy,"55,000–65,000",Virgo,9.6,5.4′ × 3.7′
+M60,NGC 4649,—,Elliptical galaxy,"51,000–59,000",Virgo,8.8,7.4′ × 6.0′
+M61,NGC 4303,Swelling Spiral Galaxy,Spiral galaxy,"50,200–54,800",Virgo,9.7,6.5′ × 5.8′
+M62,NGC 6266,Flickering Globular,Globular cluster,22.2,Ophiuchus,6.5,15′
+M63,NGC 5055,Sunflower Galaxy,Spiral galaxy,"37,000",Canes Venatici,8.6,12.6′ × 7.2′
+M64,NGC 4826,Black Eye Galaxy,Spiral galaxy,"22,000–26,000",Coma Berenices,8.5,10.7′ × 5.1′
+M65,NGC 3623,Leo Triplet,Barred Spiral galaxy,"41,000–42,000",Leo,9.3,8.7′ × 2.5′
+M66,NGC 3627,Leo Triplet,Barred Spiral galaxy,"31,000–41,000",Leo,8.9,9.1′ × 4.2′
+M67,NGC 2682,King CobraorGolden Eye Cluster,Open cluster,2.61–2.93,Cancer,6.1,30′
+M68,NGC 4590,—,Globular cluster,33.6,Hydra,7.8,11′
+M69,NGC 6637,—,Globular cluster,29.7,Sagittarius,7.6,10.8′
+M70,NGC 6681,—,Globular cluster,29.4,Sagittarius,7.9,8′
+M71,NGC 6838,Angelfish Cluster,Globular cluster,13.0,Sagitta,8.2,7.2′
+M72,NGC 6981,—,Globular cluster,53.40–55.74,Aquarius,9.3,6.6′
+M73,NGC 6994,—,Asterism,~2.5,Aquarius,9.0,2.8′
+M74,NGC 628,Phantom Galaxy[91],Spiral galaxy,"24,000–36,000",Pisces,9.4,10.5′ × 9.5′
+M75,NGC 6864,—,Globular cluster,67.5,Sagittarius,8.5,6.8′
+M76,"NGC 650,NGC 651",Little Dumbbell Nebula,Planetary nebula,2.5,Perseus,10.1,2.7′ × 1.8′
+M77,NGC 1068,Cetus AorSquid Galaxy,Spiral galaxy,"47,000",Cetus,8.9,7.1′ × 6.0′
+M78,NGC 2068,—,Diffuse nebula,1.6,Orion,8.3,8′ × 6′
+M79,NGC 1904,—,Globular cluster,41,Lepus,7.7,8.7′
+M80,NGC 6093,—,Globular cluster,32.6,Scorpius,7.3,10′
+M81,NGC 3031,Bode's Galaxy,Spiral galaxy,"11,400–12,200",Ursa Major,6.9,26.9′ × 14.1′
+M82,NGC 3034,Cigar Galaxy,Starburst galaxy,"10,700–12,300",Ursa Major,8.4,11.2′ × 4.3′
+M83,NGC 5236,Southern Pinwheel Galaxy,Barred Spiral galaxy,"14,700",Hydra,7.6,12.9′ × 11.5′
+M84,NGC 4374,—,Lenticular galaxy,"57,000–63,000",Virgo,9.1,6.5′ × 5.6′
+M85,NGC 4382,—,Lenticular galaxy,"56,000–64,000",Coma Berenices,9.1,7.1′ × 5.5′
+M86,NGC 4406,—,Lenticular galaxy,"49,000–55,000",Virgo,8.9,8.9′ × 5.8′
+M87,NGC 4486,Virgo A,Elliptical galaxy,"51,870–55,130",Virgo,8.6,7.2′ × 6.8′
+M88,NGC 4501,—,Spiral galaxy,"39,000–56,000",Coma Berenices,9.6,6.9′ × 3.7′
+M89,NGC 4552,—,Elliptical galaxy,"47,000–53,000",Virgo,9.8,5.1′ × 4.7′
+M90,NGC 4569,—,Spiral galaxy,"55,900–61,500",Virgo,9.5,9.5′ × 4.4′
+M91,NGC 4548,—,Barred Spiral galaxy,"47,000–79,000",Coma Berenices,10.2,5.4′ × 4.3′
+M92,NGC 6341,—,Globular cluster,26.7,Hercules,6.4,14′
+M93,NGC 2447,Critter Cluster,Open cluster,3.6,Puppis,6.0,10′
+M94,NGC 4736,Crocodile EyeorCat's Eye Galaxy,Spiral galaxy,"14,700–17,300",Canes Venatici,8.2,11.2′ × 9.1′
+M95,NGC 3351,—,Barred Spiral galaxy,"31,200–34,000",Leo,9.7,3.1′ × 2.9′
+M96,NGC 3368,—,Spiral galaxy,"28,000–34,000",Leo,9.2,7.6′ × 5.2′
+M97,NGC 3587,Owl Nebula,Planetary nebula,2.03,Ursa Major,9.9,3.4′ × 3.3′
+M98,NGC 4192,—,Spiral galaxy,"44,400",Coma Berenices,10.1,9.8′ × 2.8′
+M99,NGC 4254,St. Catherine's Wheel,Spiral galaxy,"44,700–55,700",Coma Berenices,9.9,5.4′ × 4.7′
+M100,NGC 4321,Mirror Galaxy,Spiral galaxy,"55,000",Coma Berenices,9.3,7.4′ × 6.3′
+M101,NGC 5457,Pinwheel Galaxy,Spiral galaxy,"19,100–22,400",Ursa Major,7.9,28.8′ × 26.9′
+M102,NGC 5866,Spindle Galaxy,Lenticular galaxy,"50,000",Draco,9.9,4.7′ × 1.9′
+M103,NGC 581,—,Open cluster,10,Cassiopeia,7.4,6′
+M104,NGC 4594,Sombrero Galaxy,Spiral galaxy,"28,700–30,900",Virgo,8.0,9′ × 4′
+M105,NGC 3379,—,Elliptical galaxy,"30,400–33,600",Leo,9.3,5.4′ × 4.8′
+M106,NGC 4258,—,Spiral galaxy,"22,200–25,200",Canes Venatici,8.4,18.6′ × 7.2′
+M107,NGC 6171,Crucifix Cluster,Globular cluster,20.9,Ophiuchus,7.9,10′
+M108,NGC 3556,Surfboard Galaxy,Barred Spiral galaxy,"46,000",Ursa Major,10.0,8.7′ × 2.2′
+M109,NGC 3992,Vacuum Cleaner Galaxy,Barred Spiral galaxy,"59,500–107,500",Ursa Major,9.8,7.6′ × 4.7′
+M110,NGC 205,Andromeda Satellite #2,Dwarf elliptical galaxy,"2,600–2,780",Andromeda,8.5,21.9′ × 11.0′
